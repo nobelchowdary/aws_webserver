@@ -1,5 +1,5 @@
 # aws_webserver
-_### **Hosting a webpage on the cloud**_
+### **Hosting a webpage on the cloud**
 ### **Running Instance on the Cloud**
 Initially, launch an instance on the AWS Cloud. I have launched Amazon Linux.
 ![image](https://user-images.githubusercontent.com/60057551/96462894-bee94700-1243-11eb-89a3-10c80d4a8bad.png)
